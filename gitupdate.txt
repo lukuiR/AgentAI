@@ -5,5 +5,3 @@ git add .
 git commit -m "Dodano interfejs analizy danych w JupyterLab"
 git push origin main
 
-git config --global user.name "lukuiR"
-git config --global user.email "lukaszqpli@googlemail.com"
